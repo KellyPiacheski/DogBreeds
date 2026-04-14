@@ -1,7 +1,7 @@
 🐕 Dog Breeds App
 
 Aplicação Android desenvolvida em Kotlin com Jetpack Compose, 
-como projeto final do curso de Software Developer no CESAE Digital.
+como projeto final da cadeira de Android do curso de Software Developer no CESAE Digital.
 
 Funcionalidades:
 - Listagem de 170+ raças de cães com foto, grupo e detalhes
